@@ -1,0 +1,5 @@
+No MySQL needed — using SQLite
+// Backend: pip install fastapi uvicorn sqlalchemy pydantic
+// Frontend: npm install axios react react-dom react-scripts tailwindcss
+// Run backend: uvicorn app.main:app --reload
+// Run frontend: npm start
